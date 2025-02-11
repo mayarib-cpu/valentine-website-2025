@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Aaliyah",
+    valentineName: "Aaliyah, my apple princess",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Do you uh... like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WHOA You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
+        high: "That's an infinte amount! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
